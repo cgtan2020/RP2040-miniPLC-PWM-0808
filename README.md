@@ -2,7 +2,7 @@
 RP2040 miniPLC PWM 0808 - 8 Channel Lighting Controller
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cgtan2020/RP2040-miniPLC-PWM-0808/main/RP2040 miniPLC-PWM-300DPI.jpg" alt="MicroPython Logo"/>
+  <img src="https://raw.githubusercontent.com/cgtan2020/RP2040-miniPLC-PWM-0808/main/RP2040 miniPLC-PWM-300DPI.png" alt="MicroPython Logo"/>
 </p>
 
 <b> 
