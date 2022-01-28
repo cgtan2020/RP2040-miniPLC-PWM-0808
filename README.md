@@ -1,6 +1,14 @@
 # RP2040-miniPLC-PWM-0808
 RP2040 miniPLC PWM 0808 - 8 Channel Lighting Controller
+# RP2040-miniPLC-IO-0808
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cgtan2020/RP2040-miniPLC-PWM-0808/main/RP2040 miniPLC-PWM-300DPI.jpg" alt="MicroPython Logo"/>
+</p>
+
+<b> 
+RP2040 based miniPLC PWM with 8 Digital Input and Output, I2C, SDCard Support, PWM, RS232
+</b>
 8 Channel High Speed PWM Lighting Controller (1MhZ), 16 Bit Control
 8 Digital Input for direct camera trigger
 7 Digital Output for General Purpose usage
