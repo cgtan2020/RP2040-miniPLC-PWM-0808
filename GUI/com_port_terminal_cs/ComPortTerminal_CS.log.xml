@@ -1,0 +1,1558 @@
+<File>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Started processing.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Source project - FullName(C:\MY DOCUMENTS\spc2_alpha\com_port_terminal\ComPortTerminal.vbproj)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Destination project - Name(ComPortTerminal_CS), Path(C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option AddNewlineBeforeCurly is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option KeepIntermediateFiles is set to False.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option IsProfessional is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option SendStatistics is set to False.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option EliminateDependenciesOnVisualBasic is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option AddCommentForMissingComments is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option ThrowException is set to False.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option AddSourceLineNumbers is set to False.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option IncludeSourceBlankLines is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option AddExplicitCasts is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option GenerateOverloaded is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option CommentDeadPrivateFields is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option IncludeSourceComments is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option GeneratePropertyMethods is set to True.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Option IsVS2003 is set to False.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:33 PM]]></DateTime>
+        <Message><![CDATA[Started creating new project.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Finished creating new project.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Started copying references.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System.Data).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System.Deployment).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System.Drawing).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:34 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System.Windows.Forms).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (System.XML).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (mscorlib).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully added reference (Microsoft.VisualBasic).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyReferences]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Finished copying references.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Started copying project settings.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting ApplicationIcon ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting AssemblyName (COM Port Terminal)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting DefaultClientScript (0)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting DefaultHTMLPageLayout (1)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting DefaultNamespace (COMPortTerminal)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting DefaultTargetSchema (1)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting StartupObject ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied project setting OutputType (0)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) BaseAddress (4194304)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) ConfigurationOverrideFile ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) DebugSymbols (True)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) EnableASPDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) EnableASPXDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) EnableSQLServerDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) IncrementalBuild (True)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) Optimize (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) RemoteDebugEnabled (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) RemoteDebugMachine ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) RegisterForComInterop (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartAction (0)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartArguments ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartPage ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartProgram ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartURL ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartWithIE (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) StartWorkingDirectory ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Debug, Any CPU) TreatWarningsAsErrors (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) BaseAddress (4194304)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) ConfigurationOverrideFile ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) DebugSymbols (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) EnableASPDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) EnableASPXDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) EnableSQLServerDebugging (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) IncrementalBuild (True)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) Optimize (True)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) RemoteDebugEnabled (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) RemoteDebugMachine ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) RegisterForComInterop (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartAction (0)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartArguments ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartPage ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartProgram ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartURL ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartWithIE (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) StartWorkingDirectory ()]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Copied Configuration(Release, Any CPU) TreatWarningsAsErrors (False)]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProperty]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Finished copying project settings.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Started copying project items.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Started to prepare all files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComDemo_TemporaryKey.pfx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\app.manifest).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Application.myapp).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Application.Designer.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\DataSources\Settings.datasource).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Resources.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Resources.Designer.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Settings.settings).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Settings.Designer.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Successfully prepared file (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[PrepareAllFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Finished preparing all files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:35 PM]]></DateTime>
+        <Message><![CDATA[Started to translate all code files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Started to convert all VB files to XML.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:36 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed data.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb]]></File>
+        <Type><![CDATA[VBToXML]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.vb]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Finished converting all VB files to XML.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started to analyze all XML files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started to create assembly array.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Finished creating assembly array.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Started to create global import array.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:37 PM]]></DateTime>
+        <Message><![CDATA[Finished creating global import array.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:55 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:55 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:56 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:56 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:56 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:56 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:16:56 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:06 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:07 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Processed]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.xml]]></File>
+        <Type><![CDATA[XMLSymbolTable]]></Type>
+        <TypeMember><![CDATA[ProcessData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Finished analyzing all XML files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Started to convert XML files to C#.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:08 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:09 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Started.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Read file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ReadData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Wrote file.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[WriteData]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Processed.]]></Message>
+        <File><![CDATA[C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.symbols.xml]]></File>
+        <Type><![CDATA[XMLVisitor]]></Type>
+        <TypeMember><![CDATA[ProcessFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Finished converting XML files to C#.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[TranslateAllCodeFiles]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Finished translating all code files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Started deleting all original vb code files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Finished deleting all original vb code files.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Started to add all files to project.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComDemo_TemporaryKey.pfx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\ComPorts.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.Designer.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\MainForm.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (Properties).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\app.manifest).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Application.myapp).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\ApplicationEvents.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\AssemblyInfo.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (DataSources).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:10 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\DataSources\Settings.datasource).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Resources.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Resources.Designer.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Settings.settings).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\Properties\Settings.Designer.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.Designer.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:11 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (C:\MY DOCUMENTS\spc2_alpha\com_port_terminal_cs\ComPortTerminal_CS\PortSettingsDialog.resx).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddAllFilesToProject]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Successfully added item to project (Program.cs).]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[AddProgramDotCsFile]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Finished adding all files to project.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[CopyProjectItems]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Finished copying project items.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Started cleanup.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Finished cleanup.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Total files of all types converted = 14]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Total files with source code converted = 7]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Total lines of code converted = 1643]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Total TRANSWARNINGS = 12]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Total TRANSERRORS = 3]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Finished processing.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+    <LogEntry Level="Information" >
+        <DateTime><![CDATA[2/19/2007 9:17:12 PM]]></DateTime>
+        <Message><![CDATA[Finished processing.]]></Message>
+        <Type><![CDATA[VBToCSTranslator]]></Type>
+        <TypeMember><![CDATA[Process]]></TypeMember>
+    </LogEntry>
+</File>

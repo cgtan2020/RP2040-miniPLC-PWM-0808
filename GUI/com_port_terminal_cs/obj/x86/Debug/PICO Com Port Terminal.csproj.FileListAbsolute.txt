@@ -1,0 +1,11 @@
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\COMPortTerminal.MainForm.resources
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\PICO_Com_Port_Terminal.Properties.Resources.resources
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\PICO Com Port Terminal.csproj.GenerateResource.cache
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\PICO Com Port Terminal.csproj.CoreCompileInputs.cache
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\bin\Debug\WindowsApplication.exe.config
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\bin\Debug\WindowsApplication.exe
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\bin\Debug\WindowsApplication.pdb
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\WindowsApplication.exe
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\WindowsApplication.pdb
+C:\PersonalData\PICO\GUI\com_port_terminal_cs\obj\x86\Debug\PICO Com Port Terminal.csproj.AssemblyReference.cache

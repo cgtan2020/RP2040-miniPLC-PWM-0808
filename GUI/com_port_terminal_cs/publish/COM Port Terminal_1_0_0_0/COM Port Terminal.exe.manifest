@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="COM Port Terminal.exe" version="1.0.0.0" publicKeyToken="7cf26a37cc648f40" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="COM Port Terminal" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="COM Port Terminal.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="COM Port Terminal.exe" size="65536">
+      <assemblyIdentity name="COM Port Terminal" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gt2exe0Qn3yIeDYmXD0SOg40z9s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="COM Port Terminal.exe.config" size="1201">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JuXHVdfKMngMlnuLVlcd58oeQrs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=D510\cgtan" issuerKeyHash="f25f6e27649727a7993bd39ca17e7c8529c0a099" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>YiBHLaKRRTKS/YDuIjWQOD8VbFo=</DigestValue></Reference></SignedInfo><SignatureValue>X1PqGJAjTJ+fnO+V9kc+sOm9KxQnL0EAKt/GSVo9cA46WR8YfVWVrPBbbciZR4g7VMEEnMF2t7fGWsLBW3gztaGRpG+x6DgrfJFkIhABK0rVJ2bZX7ej+qynRWkdE0OGMNAm40aHmZQ4v6BGOV3ueMR59mevzxhe15Kkjr87IKE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>txN2dWwD+OeF8oDBsSyxkX279YTZhQbUSn1yVSkbJGU/YmZej1ut2x35Wx3xcfkhhwHasR2dQjRGv9BRHCm6LgSjZN2Vc6NN7Tuv6Z3CHjm1QGJIDPkyVk9004bp1dyn6+PAp0LK4/eZyrKhPIirr8kfRX7vpdu+pB4M12SmrTE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5a6c153f38903522ee80fd92324591a22d472062" Description="" Url=""><as:assemblyIdentity name="COM Port Terminal.exe" version="1.0.0.0" publicKeyToken="7cf26a37cc648f40" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=D510\cgtan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7w53Ia28uHJZ1Xn9qBo/EL2bwD0=</DigestValue></Reference></SignedInfo><SignatureValue>lCQzGtSs5ntgR2Z8WOW2vmhi33Ra9hfUqTdzR2NVBG5AO8RnO22eN9AixLiprNmU/uciBuZVUi1hGlCMdHflMaf//PxBvAyC+eZAEpi0fkGNvyxeDuN+C2Iifvlbo7bqRbZE8FyfPf09PidfAP4r19AX9O+OnvYJ44rdMaDvt3Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>txN2dWwD+OeF8oDBsSyxkX279YTZhQbUSn1yVSkbJGU/YmZej1ut2x35Wx3xcfkhhwHasR2dQjRGv9BRHCm6LgSjZN2Vc6NN7Tuv6Z3CHjm1QGJIDPkyVk9004bp1dyn6+PAp0LK4/eZyrKhPIirr8kfRX7vpdu+pB4M12SmrTE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASagAwIBAgIQPSOZq+YDDL9MP3yQ8MkoejAJBgUrDgMCHQUAMB8xHTAbBgNVBAMeFABEADUAMQAwAFwAYwBnAHQAYQBuMB4XDTA5MTExNjA2NTQ1M1oXDTEwMTExNjEyNTQ1M1owHzEdMBsGA1UEAx4UAEQANQAxADAAXABjAGcAdABhAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALcTdnVsA/jnhfKAwbEssZF9u/WE2YUG1Ep9clUpGyRlP2JmXo9brdsd+Vsd8XH5IYcB2rEdnUI0Rr/QURwpui4Eo2TdlXOjTe07r+mdwh45tUBiSAz5MlZPdNOG6dXcp+vjwKdCyuP3mcqyoTyIq6/JH0V+76XbvqQeDNdkpq0xAgMBAAEwCQYFKw4DAh0FAAOBgQABfM+yIHY7f8q1xBjRh9Og+kODpMBzEmTWsfsMSqw93o1b60UW3bAxdq4OYJvjxnJUv2YqCnsejdzYCQAhTNDEaTkcsXWfmlICaRfZCWH9Y40HUj1Z/qXdRt9zXbvj/1EmTcLrcVaHqInSA2OM4f+NjzsmTqMMzCvV4bbmf8uelg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

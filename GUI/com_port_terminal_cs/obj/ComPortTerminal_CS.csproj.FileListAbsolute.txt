@@ -1,0 +1,38 @@
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Debug\COM Port Terminal.exe.config
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\COM Port Terminal.exe
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Debug\COM Port Terminal.exe
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Debug\COM Port Terminal.pdb
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\COMPortTerminal.MainForm.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\COMPortTerminal.Properties.Resources.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\ComPortTerminal_CS.csproj.GenerateResource.Cache
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Debug\COM Port Terminal.pdb
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe.config
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.pdb
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\ResolveAssemblyReference.cache
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.MainForm.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.PortSettingsDialog.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.Properties.Resources.resources
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\ComPortTerminal_CS.csproj.GenerateResource.Cache
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.exe
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.pdb
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe.manifest
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.application
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.exe.manifest
+D:\Download\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.application
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe.config
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.exe
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.pdb
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe.manifest
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.application
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.exe
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\bin\Release\COM Port Terminal.pdb
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\ResolveAssemblyReference.cache
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.MainForm.resources
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.PortSettingsDialog.resources
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COMPortTerminal.Properties.Resources.resources
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\ComPortTerminal_CS.csproj.GenerateResource.Cache
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.exe.manifest
+F:\PersonalData\Project\Lighting Controller\Serial Port\com_port_terminal_cs\com_port_terminal_cs\obj\Release\COM Port Terminal.application
